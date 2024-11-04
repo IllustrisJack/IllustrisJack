@@ -1,7 +1,7 @@
 # Hello!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IllustrisJack&theme=github_dark&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IllustrisJack&theme=github_dark&count_private=true&rank_icon=github"/>
 </a>
 
 <br>
