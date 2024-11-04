@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllustrisJack&layout=compact&theme=github_dark&count_private=true"/>
 </a>
 
-# Legal Notice according to [§5 TMG of the german law](https://www.gesetze-im-internet.de/tmg/__5.html):
+# Legal Notice according to [§5 DDG of the german law](https://www.gesetze-im-internet.de/ddg/__5.html):
 
 ### Contact
 
