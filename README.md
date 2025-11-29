@@ -1,15 +1,5 @@
 # Hello!
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IllustrisJack&theme=github_dark&count_private=true&rank_icon=github"/>
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllustrisJack&layout=compact&theme=github_dark&count_private=true"/>
-</a>
+I am a freelance IT consultant and Full Stack Developer.
 
 # Legal Notice according to [§5 DDG of the german law](https://www.gesetze-im-internet.de/ddg/__5.html):
 
